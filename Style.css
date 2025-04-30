@@ -1,0 +1,12 @@
+/*Formatting the Seeds Table*/
+table {
+    font-family: alegreya Sans, san-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 3px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+  }
